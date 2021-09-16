@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:柳;愷廸;;;
+FN: 柳愷廸
+ORG:中華賓士;
+TITLE:數位轉型經理\n汽車部總經理室
+EMAIL;type=INTERNET;type=WORK;type=pref:kai.liu@cmi.mercedes-benz.com.tw
+TEL;type=WORK;type=VOICE:+886 988 687 670
+item1.ADR;type=WORK;type=pref:;;台北市大度路三段168號;;;112;R.O.C
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:cmi.mercedes-benz.com.tw
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
